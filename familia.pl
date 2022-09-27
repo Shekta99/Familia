@@ -18,6 +18,7 @@ padrede('rodrigo','alejandro').
 padrede('sofia','alejandro').
 padrede('rodrigo','juan').
 padrede('sofia','juan').
+padrede('pepe','raul').
 
 
 hijode(A,B):-padrede(B,A).
